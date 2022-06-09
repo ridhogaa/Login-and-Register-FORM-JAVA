@@ -3,4 +3,6 @@ Aplikasi ini merupakan proyek akhir mata kuliah TBO (Teori Bahasa dan Otomata). 
 
 Universitas YARSI
 
-Aplikasi dibuat oleh: -Ridho Gymnastiar Al Rasyid -Aldhaf Fadlilah
+Aplikasi dibuat oleh: 
+- Ridho Gymnastiar Al Rasyid 1402020069
+- Aldhaf Fadlilah 1402020112
